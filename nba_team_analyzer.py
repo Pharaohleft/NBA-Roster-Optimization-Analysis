@@ -48,7 +48,7 @@ def recommend_players():
 
 # === UI ===
 with gr.Blocks() as app:
-    gr.Markdown("## 🏀 TeamCraft.AI – NBA Roster Evaluator")
+    gr.Markdown("## TeamCraft.AI – NBA Roster Evaluator")
 
     team_input = gr.Textbox(label="Enter NBA Team Abbreviation (e.g., GSW, LAL, MIA)", value="GSW")
     team_output = gr.Textbox(label="Team Evaluation Report")
