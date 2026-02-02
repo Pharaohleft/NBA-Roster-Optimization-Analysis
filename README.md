@@ -1,4 +1,4 @@
-# NBA Team Building & Roster Optimization
+# NBA Team Roster Optimization
 ### *A Data-Driven Framework for Resource Allocation and Role Replacement*
 
 ---
