@@ -9,7 +9,9 @@ Date: October 2025 Document Type: Technical Audit Target Audience: Director of A
 
 The Los Angeles Clippers operate in one of the most financially constrained environments in professional sports. 
 As a Data Analyst supporting the LA Clippers’ basketball operations team, I worked on evaluating roster cost efficiency under the constraints of the 2024 NBA Collective Bargaining Agreement. With stricter luxury tax penalties and limited roster flexibility, leadership needed a way to analyse player production to optimize player contracts. Under the previous CBA, teams could correct roster inefficiencies by paying additional luxury tax. Under the current CBA, exceeding the Second Apron results in severe long-term penalties, including frozen future draft picks and restricted trade flexibility. As a result, inefficient contracts now pose a structural risk to the franchise rather than a temporary financial cost.
+
 As a result, NBA front offices can no longer rely on financial spending alone to correct roster inefficiencies. Instead, teams must identify cost-efficient player alternatives that preserve on-court production while maintaining salary cap flexibility.
+
 This analysis supports that objective by examining league-wide player performance data to identify statistically comparable players available at lower cost, helping decision-makers evaluate replacement options, contract risk, and roster efficiency under modern cap constraints
 
 ---
