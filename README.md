@@ -1,5 +1,5 @@
 # NBA Roster Optimization Analysis
-### *A Data-Driven Framework for Resource Allocation*
+
 
 ---
 ### LA clippers Roster Cost Efficiency & Replacement Analysis
