@@ -145,14 +145,15 @@ High-usage archetypes exhibit earlier and steeper contribution decline compared 
 <img width="580" height="385" alt="Picture5" src="https://github.com/user-attachments/assets/b96edcfc-4780-4e29-bd71-f21bbeb5e20c" />
 
 <img width="575" height="412" alt="Picture6" src="https://github.com/user-attachments/assets/3159e836-fa28-4baf-aacd-a798229b2fd7" />
+<br>
 Our analysis prioritized finding "Borderline Players"—athletes mathematically positioned between clusters. These players represent "hybrid" value that traditional scouting often misses.
 
 - **Key Findings:** The PCA model explicitly identified specific players as outliers or "misfits" near cluster boundaries.
-  - Victor Wembanyama: Identified as a "Two-Way Threat" with a high Euclidean distance ($7.59$), confirming his statistical uniqueness.
-  - Domantas Sabonis: Categorized as a "Floor General" (Distance: $5.95$), validating his role as a hub rather than a traditional big.
-  - Luke Kornet: Identified as a "Glass Cleaner" (Distance: $6.23$), suggesting a specific niche utility.
+  - Victor Wembanyama: Identified with a high Euclidean distance ($7.59$), confirming his statistical uniqueness.
+  - Domantas Sabonis: (Distance: $5.95$), validating his role as a hub rather than a traditional big.
+  - Luke Kornet: (Distance: $6.23$), suggesting a specific niche utility.
 
-By measuring player-to-player similarity within performance groups, the analysis surfaces replacement candidates delivering 85%+ statistical similarity to higher-salary players across core metrics.
+By measuring player-to-player similarity within performance groups, the analysis surfaces replacement candidates delivering 85%+ statistical similarity to higher-salary assets across core metrics.
 
 <img width="573" height="285" alt="Picture7" src="https://github.com/user-attachments/assets/6e9cfa6d-b610-4830-a142-2727efeed840" />
 
@@ -299,9 +300,6 @@ The model returned a "Composite Aggregate" of three players:
 - Aggregate 3P%: 38.1% (+1.1% vs Target).
 
 ---
-## KPIs & Decision Metrics
-
-The analysis uses a focused set of metrics designed to support portfolio-level decision-making rather than isolated performance evaluation.
 
 ### Core Metrics
 
@@ -363,15 +361,13 @@ Age-based patterns further reveal that high-usage archetypes experience earlier 
 ---
 
 ### Tableau Public Dashboard
-→ See interactive roster comparisons and player role distributions
 https://public.tableau.com/app/profile/austin.abraham5815/viz/NBAathleteyoungvsold/AgeDashboard
 
 ### Youtube Project Walkthrough ( Trade Recommender App)
 https://youtu.be/-bg97gmqsvw
 
-### Hugging face spaces nba app
+### Hugging Face App
 https://huggingface.co/spaces/pharaohleft/nba-role-search
 
  ### Substack Blog
-→ Narrative walkthrough of insights and roster logic
 https://pharaohleft.substack.com/p/data-driven-investigation-into-what
